@@ -4,7 +4,7 @@
 
 ## What is a Progressive Web App
 
-> A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, leveraging the web's low friction.
+> A Progressive Web App uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, using the web's low friction.
 
 _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
@@ -12,34 +12,34 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [App Directories](#app-directories)
 * [Apps](#apps)
-  * [Audio and Video](#audio-and-video)
-  * [Business and Finance](#business-and-finance)
-  * [Communication and Social](#communication-and-social)
-  * [Development and Design](#development-and-design)
-  * [Education and Reading](#education-and-reading)
-  * [Games and Entertainment](#games-and-entertainment)
-  * [Health and Lifestyle](#health-and-lifestyle)
-  * [News and Information](#news-and-information)
-  * [Shopping and Travel](#shopping-and-travel)
-  * [Tools and Utilities](#tools-and-utilities)
-  * [Miscellaneous](#miscellaneous)
+ * [Audio and Video](#audio-and-video)
+ * [Business and Finance](#business-and-finance)
+ * [Communication and Social](#communication-and-social)
+ * [Development and Design](#development-and-design)
+ * [Education and Reading](#education-and-reading)
+ * [Games and Entertainment](#games-and-entertainment)
+ * [Health and Lifestyle](#health-and-lifestyle)
+ * [News and Information](#news-and-information)
+ * [Shopping and Travel](#shopping-and-travel)
+ * [Tools and Utilities](#tools-and-utilities)
+ * [Miscellaneous](#miscellaneous)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
-  * [Getting Started and Introductions](#getting-started-and-introductions)
-  * [Case Studies and Real-World Apps](#case-studies-and-real-world-apps)
-  * [Performance and Optimization](#performance-and-optimization)
-  * [Technical Guides and Deep Dives](#technical-guides-and-deep-dives)
+ * [Getting Started and Introductions](#getting-started-and-introductions)
+ * [Case Studies and Real-World Apps](#case-studies-and-real-world-apps)
+ * [Performance and Optimization](#performance-and-optimization)
+ * [Technical Guides and Deep Dives](#technical-guides-and-deep-dives)
 * [Videos](#videos)
-  * [Google I/O](#google-i/o)
-  * [Progressive Web App Summit 2016](#progressive-web-app-summit-2016)
-  * [Chrome Dev Summit](#chrome-dev-summit)
-  * [Other Talks and General Concepts](#other-talks-and-general-concepts)
+ * [Google I/O](#google-i/o)
+ * [Progressive Web App Summit 2016](#progressive-web-app-summit-2016)
+ * [Chrome Dev Summit](#chrome-dev-summit)
+ * [Other Talks and General Concepts](#other-talks-and-general-concepts)
 * [Tools](#tools)
-  * [Generators and CLIs](#generators-and-clis)
-  * [Service Worker Libraries](#service-worker-libraries)
-  * [Webpack and Framework Plugins](#webpack-and-framework-plugins)
-  * [Testing and Auditing](#testing-and-auditing)
-  * [Miscellaneous Utilities](#miscellaneous-utilities)
+ * [Generators and CLIs](#generators-and-clis)
+ * [Service Worker Libraries](#service-worker-libraries)
+ * [Webpack and Framework Plugins](#webpack-and-framework-plugins)
+ * [Testing and Auditing](#testing-and-auditing)
+ * [Miscellaneous Utilities](#miscellaneous-utilities)
 * [Kits](#kits)
 * [Courses](#courses)
 * [Conferences](#conferences)
@@ -208,14 +208,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [MConverter](https://mconverter.eu): Online file converter.
-* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter — 94 formats, 345 units, 100% client-side with WebAssembly.
+* [OmniConvert](https://tools.sagasu.art): Free, open-source file and unit converter: 94 formats, 345 units, 100% client-side with WebAssembly.
 * [Morse Code Translator](https://morsedecoder.com/): Morse Code tools
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
-* [PDFGem](https://pdfgem.io/): Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
-* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for seamless functionality on the go.
+* [PDFGem](https://pdfgem.io/): Free browser-based PDF tools: merge, split, compress, OCR, sign, convert. All processing runs client-side via WebAssembly; works offline after initial load. 16 languages.
+* [Pocket Devices](https://pocket-devices.com/): Pocket-sized tools for smooth functionality on the go.
 * [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PPResume](https://ppresume.com/): A LaTeX Based Resume Builder
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
@@ -226,7 +226,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Super Productivity](https://app.super-productivity.com): Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration.
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
-* [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
+* [Vizua](https://vizua.io/): Free browser-based image tools: compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
 * [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
@@ -244,7 +244,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Build a realtime PWA with React](https://pusher.com/tutorials/pwa-react)
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) by [@addyosmani](https://twitter.com/addyosmani)
 * [Google Developers - Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
-* [Introduction to Progressive Web Apps by Google-Udacity](https://udacity.com/course/intro-to-progressive-web-apps--ud811/)
+* [Introduction to Progressive Web Apps by Google-Udacity](https://udacity.com/course/intro-to-progressive-web-apps, ud811/)
 * [Introduction to progressive web apps](https://blog.pusher.com/introduction-progressive-web-apps/)
 * [Progressive Web Apps with React.js - 4 part series](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.ly1xiybxd) by [@addyosmani](https://twitter.com/addyosmani)
 * [Retrofit an Existing Website as a Progressive Web App](https://www.sitepoint.com/retrofit-your-website-as-a-progressive-web-app/)
@@ -259,7 +259,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Are Progressive Web Apps the Future?](http://developer.telerik.com/featured/are-progressive-web-apps-future/)
 * [Introduction to Progressive Web App with example](https://www.loginradius.com/engineering/blog/introduction-to-progressive-web-apps/)
 * [Intro to (Progressive) Web Apps](https://dev.to/sudhakar3697/intro-to-progressive-web-apps-34oo)
-* [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
+* [Progressive web apps have leapfrogged the native install model... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [What Progressive Web Apps Mean for the Web](http://developer.telerik.com/featured/what-progressive-web-apps-mean-for-the-web/)
 
@@ -276,7 +276,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ### Performance and Optimization
 
 * [FLIP your animations](https://aerotwist.com/blog/flip-your-animations/)
-* [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
+* [IndexedDB, WebSQL, LocalStorage: what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [PWA Performance](https://speedcurve.com/blog/pwa-performance/)
 * [The web app "discovery problem"](https://remysharp.com/2016/04/11/the-webapp-discovery-problem)
 
@@ -289,7 +289,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
 * [PWA - E-Commerce - Compare List](https://docs.google.com/spreadsheets/d/1nx5jcHa6reIH20q20uDnZLQNjuK2ohk-HmQ09hy9NCE/edit#gid=0)
 * [Service Worker - Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
-* [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/)
+* [Service Workers: Dynamic Responsive Images using WebP Images](http://deanhume.com/Home/BlogPost/service-workers, dynamic-responsive-images-using-webp-images/10132/)
 * [Support for theme-color in Chrome 39 for Android](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
 * [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
@@ -301,7 +301,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [AMP + Progressive Web Apps: Start fast, stay engaged - Google I/O 2016](https://www.youtube.com/watch?v=a5X_Ot-R6lo)
 * [Angular 2 and Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=vAb-2d1vcg8)
 * [Building for billions on the web - Google I/O 2016](https://www.youtube.com/watch?v=E6hGubMkNfM)
-* [Building the Google I/O Web App: Launching a Progressive Web App on Google.com  - Google I/O 2016](https://www.youtube.com/watch?v=__KvYxcIIm8)
+* [Building the Google I/O Web App: Launching a Progressive Web App on Google.com - Google I/O 2016](https://www.youtube.com/watch?v=__KvYxcIIm8)
 * [Fast and resilient web apps: Tools and techniques - Google I/O 2016](https://www.youtube.com/watch?v=aqvz5Oqs238)
 * [Fireside Chat with the Progressive Web Apps Crew - Google I/O 2016](https://www.youtube.com/watch?v=Sy4oH8JZuJQ)
 * [Going Big: PWAs Come to Desktop and Chrome OS (Google I/O ’19)](https://www.youtube.com/watch?v=2KhRmFHLuhE)
@@ -339,7 +339,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Summit Report: Reach, acquisition and conversion (Progressive Web Apps Summit 2016)](https://www.youtube.com/watch?v=Vou8NruMyWA&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=16)
 * [Summit Report: Talking HTTPS with Emily Schechter (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=U638eR0ltUo&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=6)
 * [Summit Report: The Web Developers swarm! (Progressive Web Apps Summit 2016)](https://www.youtube.com/watch?v=y-E-z6XVKGI&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=2)
-* [Summit Report: What do I need to know about HTTP2? (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=w--PU4HO9SM&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=10)
+* [Summit Report: What do I need to know about HTTP2? (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=w, PU4HO9SM&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=10)
 * [Summit Report: Why's it called a Progressive Web App? (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=yxy1BOC1-q8&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=8)
 * [The Future of Progressive Web Apps (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=kB4MgJ0AoOw&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=22)
 * [Tools for Success (Progressive Web App Summit 2016)](https://www.youtube.com/watch?v=m2Zk5CgVX9I&list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb&index=21)
@@ -355,13 +355,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Other Talks and General Concepts
 
-* [Breaking the 1000ms Time to Glass Mobile Barrier  (vid)](https://www.youtube.com/watch?v=Il4swGfTOSM)
+* [Breaking the 1000ms Time to Glass Mobile Barrier (vid)](https://www.youtube.com/watch?v=Il4swGfTOSM)
 * [Building a Progressive Web App - Aditya Punjani](https://www.youtube.com/watch?v=m2tvYGCdOzs)
 * [Interview with Google Software Engineer Alex Russell - O'Reilly Fluent Conference 2016](https://www.youtube.com/watch?v=vMg9sycUnm4&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL&index=36)
 * [Polymer Summit 2016 Youtube Playlist](https://www.youtube.com/watch?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ&v=VBbejeKHrjg)
 * [Progressive web apps and what's next for mobile](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile?utm_source=twitter&utm_medium=webplatform&utm_campaign=YTknRussell-jj)
 * [Progressive Web Apps and What's Next for Mobile](https://www.youtube.com/watch?v=JP5p6t3wNLA)
-* [Progressive Web Apps Are Easy Now - Or Are They with Thorsten Lorenz -- UtahJS 2018](https://youtu.be/bKxtwzr0sy0)
+* [Progressive Web Apps Are Easy Now - Or Are They with Thorsten Lorenz, UtahJS 2018](https://youtu.be/bKxtwzr0sy0)
 * [Progressive Web Apps: the future of Apps](https://dev.opera.com/blog/pwa-taipei/)
 * [Progressive Web Apps Training 2019 - Playlist](https://www.youtube.com/watch?v=psB_Pjwhbxo&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * [Progressive Web Apps with Alex Russell](https://www.youtube.com/watch?v=x7cfLDFVyHo)
@@ -402,7 +402,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ### Testing and Auditing
 
-* [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices — ideal for verifying PWA quality before launch.
+* [`PageGuard`](https://pageguard.org): Free website health scanner that audits performance, accessibility (WCAG 2.1), SEO, and best practices: ideal for verifying PWA quality before launch.
 
 ### Miscellaneous Utilities
 
@@ -411,7 +411,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`@forlagshuset/simple-fs`](https://github.com/fagbokforlaget/simple-fs): Needs offline filesystem? SimpleFS provides sweet promise based nodejs file API on top of indexeddb.
 * [`HNPWA`](https://github.com/tastejs/hacker-news-pwas): Hacker News readers as Progressive Web Apps. A spiritual successor to TodoMVC.
 * [`pwa-badge`](https://github.com/ali-master/pwa-badge): Badging for PWA app icons, Like Native Apps
-* [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities — install prompts, offline indicators, and update notifications.
+* [`pure-web`](https://www.npmjs.com/package/pure-web): Web component for enhancing PWA capabilities: install prompts, offline indicators, and update notifications.
 
 ## Kits
 
@@ -428,7 +428,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 * [Developing Progressive Web Apps Course](https://codelabs.developers.google.com/dev-pwa-training) (free)
 * [Getting Started with Progressive Web Apps](https://www.pluralsight.com/courses/web-apps-progressive-getting-started) (paid)
-* [Intro to Progressive Web Apps](https://udacity.com/course/intro-to-progressive-web-apps--ud811) (free)
+* [Intro to Progressive Web Apps](https://udacity.com/course/intro-to-progressive-web-apps, ud811) (free)
 * [Learn to build progressive web apps using JavaScript](https://www.udemy.com/course/learn-to-build-progressive-web-apps-using-javascript/) (paid)
 * [Progressive Web App Fundamentals](https://www.pluralsight.com/courses/progressive-web-app-fundamentals) (paid)
 * [Progressive Web Apps - The Concise PWA Masterclass](https://www.udemy.com/course/progressive-web-apps/) (paid)
